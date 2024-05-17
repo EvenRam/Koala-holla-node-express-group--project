@@ -1,0 +1,36 @@
+table {
+    width: 75%;
+  }
+
+  table, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+  }
+
+  th, td {
+    padding: .8em;
+    min-width: 3.5em;
+    margin-left: 150px;
+  }
+
+  thead {
+    background: rgb(210, 221, 225);
+    color: black;
+    
+  }
+
+  h1{
+    background-color: lightblue;
+    text-align: center;
+  }
+
+  header {
+    background-color: rgb(52, 103, 212);
+  }
+
+  details {
+    background-color: rgb(125, 177, 224);
+  }
+
+  
